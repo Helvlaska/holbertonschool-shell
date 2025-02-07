@@ -1,0 +1,1 @@
+0-current_working_directory : le script imprime l'absolute path du dossier courant 
