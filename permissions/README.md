@@ -1,0 +1,1 @@
+Dossier contenant des fichiers de script pour s'entrainer a manipuler le shell 
